@@ -5,6 +5,7 @@
 <h3 align="center">I'm Software Engineer | A passionate frontend developer from pakistan</h3>
 
 - 📫 How to reach me **yasirqureshi7866t@gmail.com**
+- - 📫 How to reach me on whatsapp **0309-5596964**
 
 - ⚡ Fun fact **In my free time, I enjoy exploring the intersection of technology and art.**
 
